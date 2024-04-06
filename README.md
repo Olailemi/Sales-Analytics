@@ -1,4 +1,3 @@
-![Alt Text]("C:\Users\HP\Pictures\Screenshots\Screenshot (94).png")
 
 # Sales Data Analysis Project Overview
 ## Description
