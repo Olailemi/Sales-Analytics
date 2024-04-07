@@ -1,4 +1,4 @@
-![Picture](https://github.com/Olailemi/Sales-Analytics/assets/151401829/15ab7f9f-bb28-4185-90a6-a9a3d0a029ee)
+![images](https://github.com/Olailemi/Sales-Analytics/assets/151401829/e05a7539-46b3-4739-b19b-a820e37a4bc6)
 
 # Sales Data Analysis Project Overview
 ## Description
