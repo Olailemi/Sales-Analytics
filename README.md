@@ -1,6 +1,5 @@
 ![images](https://github.com/Olailemi/Sales-Analytics/assets/151401829/e05a7539-46b3-4739-b19b-a820e37a4bc6)
 
-C:\Users\hp\Pictures\Screenshots\Screenshot (6).png
 
 # Sales Data Analysis Project Overview
 ## Description
