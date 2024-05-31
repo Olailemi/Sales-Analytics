@@ -1,5 +1,7 @@
 ![images](https://github.com/Olailemi/Sales-Analytics/assets/151401829/e05a7539-46b3-4739-b19b-a820e37a4bc6)
 
+C:\Users\hp\Pictures\Screenshots\Screenshot (6).png
+
 # Sales Data Analysis Project Overview
 ## Description
 The project involves analyzing a substantial sales dataset to uncover significant insights. This includes investigating sales patterns over time, determining top-selling items, computing revenue-related metrics like total sales and profit margins, and crafting visual representations to convey findings clearly. Through this endeavor, the individual demonstrates adeptness in handling extensive datasets and deriving actionable insights, leading to informed recommendations for enhancing sales strategies.
