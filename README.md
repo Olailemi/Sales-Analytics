@@ -1,4 +1,5 @@
-![images](https://github.com/Olailemi/Sales-Analytics/assets/151401829/e05a7539-46b3-4739-b19b-a820e37a4bc6)
+![How-E-commerce-Startups-Blew-a-Two-Year-Old-Weekly-Sit-At-Home-Opportunity-in-the-Southeast-of-Nigeria](https://github.com/user-attachments/assets/daa404ef-1dd8-496b-8c00-16505883142b)
+)
 
 
 # Sales Data Analysis Project Overview
